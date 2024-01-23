@@ -1,6 +1,6 @@
 <img src="https://res.cloudinary.com/dpwdxzfs2/image/upload/v1706048033/banner-git_ybsdg6.jpg">
-# 💫 About Me:
-👋 Hi, I’m @PaoSotomayor<br>👀 I'm passionate about the world of Programming and Graphic Design<br>🌱 I’m interested in Full Stack Development<br>💞️ I have good soft skills and good development when working with other people<br>💻 Currently I continue studying and acquiring knowledge in new technologies
+ 💫 ABOUT ME:
+<br>👋 Hi, I’m @PaoSotomayor<br>👀 I'm passionate about the world of Programming and Graphic Design<br>🌱 I’m interested in Full Stack Development<br>💞️ I have good soft skills and good development when working with other people<br>💻 Currently I continue studying and acquiring knowledge in new technologies
 
 
 ## 🌐 Socials:
